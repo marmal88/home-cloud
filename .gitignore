@@ -1,3 +1,6 @@
+# env hcl files
+env.hcl
+
 # Local .terraform directories
 **/.terraform/*
 
